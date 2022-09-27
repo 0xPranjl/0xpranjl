@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **rust and cosmwasm smartcontract**
 
 - 💬 Ask me about **react,php,blockchains**
+[![@0xpranjl's Holopin board](https://holopin.io/api/user/board?user=0xpranjl)](https://holopin.io/@0xpranjl)
 
 
 
